@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://camo.githubusercontent.com/898f94be504f7baf1ddb0a2811152dab61cfd723e683b6947be9ffa3c879ccc4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36352f4861636b657252616e6b5f6c6f676f2e706e67)](https://www.hackerrank.com/gowtham_s001)
+[![Become A VS Code SuperHero](https://camo.githubusercontent.com/898f94be504f7baf1ddb0a2811152dab61cfd723e683b6947be9ffa3c879ccc4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36352f4861636b657252616e6b5f6c6f676f2e706e67) width="26px"](https://www.hackerrank.com/gowtham_s001)
 
 
 ## I'm a Aspiring Full Stack Developer!!
