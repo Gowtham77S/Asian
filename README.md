@@ -1,15 +1,15 @@
-# Hi there, I'm Gowtham S - aka [GowthamLion][Insta] 👋 
+# Hi there, I'm Gowtham S - aka [GowthamLion][youtube] 👋 
 
 
 
+## I'm a Husband, Father, Developer, and Teacher!!
 
-## I'm a Aspiring Full Stack Developer!!
-
-
+- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about FullStack
-- ⚡ Fun fact: I love to Take Photos and Videos
-
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love to draw and play guitar / drums
+- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Connect with me:
 
@@ -104,7 +104,7 @@
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[Insta]: https://www.instagram.com/gowtham_lion
+[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
