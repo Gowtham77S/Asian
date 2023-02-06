@@ -10,6 +10,7 @@
 
 ## I'm a Aspiring Full Stack Developer!!
 
+
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about FullStack
 - ⚡ Fun fact: I love to Take Photos and Videos
